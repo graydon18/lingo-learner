@@ -1,14 +1,14 @@
-# LingoPal
+# LingoLearner
 
-## What is LingoPal?
+## What is LingoLearner?
 
-**LingoPal** isn't like any old dictionary, it's your new language learning assistant.
+**LingoLearner** isn't like any old dictionary, it's your new language learning assistant.
 
-**LingoPal** functions as a personal dictionary, allowing its users to create and update an accessible and individualized database of words that they come across while learning their new language of choice. Users will be able to add a new word to their dictionary, provide its translation to their native language, specify the word's grammatical category, and create an example sentence. Additonally, from either their entire personalized collection of words or a small subset of terms, users will be able to further refresh and practice their new vocabulary with quizzes.
+**LingoLearner** functions as a personal dictionary, allowing its users to create and update an accessible and individualized database of words that they come across while learning their new language of choice. Users will be able to add a new word to their dictionary, provide its translation to their native language, specify the word's grammatical category, and create an example sentence. Additonally, from either their entire personalized collection of words or a small subset of terms, users will be able to further refresh and practice their new vocabulary with quizzes.
 
-**LingoPal** is designed to aid **anyone** on a language learning journey, from beginner students to avid polygots. So whether you're just trying to learn some phrases for your next trip abroad, keeping up with a language you learned in school, or working on your 5th new language, LingoPal is here to help you along the way.
+**LingoLearner** is designed to aid **anyone** on a language learning journey, from beginner students to avid polygots. So whether you're just trying to learn some phrases for your next trip abroad, keeping up with a language you learned in school, or working on your 5th new language, LingoPal is here to help you along the way.
 
-## Why LingoPal?
+## Why LingoLearner?
 
 In additon to computer science, one of my personal fascinations and hobbies is language learning. While I can't call myself fluent in anything other than English, I find the process of language acquistion so fun, rewarding, and quite unique to every person. I've had the opportunity of learning 3 other languages in academic settings *(and a few more with less commitment)*, and I came up with this idea for my Personal Project as a tool for those with a mutual interest in foreign language. 
 
