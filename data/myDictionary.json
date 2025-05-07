@@ -1,0 +1,21 @@
+{
+    "terms": [
+        {
+            "grammarType": "noun",
+            "notes": "",
+            "name": "pastel",
+            "translation": "cake",
+            "isFavourite": false,
+            "example": "Este pastel es muy delicioso"
+        },
+        {
+            "grammarType": "phrase",
+            "notes": "You can also say Que tal? as a greeting",
+            "name": "hola",
+            "translation": "hello",
+            "isFavourite": true,
+            "example": "Hola! Como estas"
+        }
+    ],
+    "name": "My Spanish Dictionary"
+}
