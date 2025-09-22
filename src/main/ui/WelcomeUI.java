@@ -2,6 +2,8 @@ package ui;
 
 import javax.swing.*;
 
+// GitHub author test comment
+
 // A program welcome UI that allows the users to load or create a new dictionary
 public class WelcomeUI extends JFrame {
     public static final int WIDTH = 750;
